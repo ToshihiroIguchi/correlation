@@ -18,7 +18,6 @@ If shiny is installed, it can be started from R console with the following comma
     
     shiny::runGitHub("correlation", "ToshihiroIguchi")
 
-For those who have difficulty installing R, I have published it as a web application in [shinyapps.io](https://toshihiroiguchi.shinyapps.io/correlation/).
 
 ### License 
 
